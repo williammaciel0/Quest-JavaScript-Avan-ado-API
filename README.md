@@ -1,4 +1,4 @@
-# Quest JavaScripi Avançado (API)
+# Quest JavaScript Avançado (API)
 Repositório projeto de Fetch e GitHub API
 ## Tecnologias utilizadas
 - html
