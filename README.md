@@ -1,4 +1,4 @@
-# projeto-inicial-fetch-github-api
+# Quest JavaScript Avançado (API)
 Repositório projeto de Fetch e GitHub API
 ## Tecnologias utilizadas
 - html
