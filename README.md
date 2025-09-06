@@ -7,7 +7,7 @@ Repositório projeto de Fetch e GitHub API
 ## Como utilizara
 1 - Clone do projeto
 ```
-git clone <url>
+git clone https://github.com/williammaciel0/Quest-JavaScript-Avan-ado-API.git
 ```
 2 - Acessa repositório
 ```
